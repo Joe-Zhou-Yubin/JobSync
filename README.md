@@ -11,6 +11,8 @@ npm start (run frontend program)<br>
 
 Database: Create in table (roles) 1. ROLE_EMPLOYEE 2. ROLE_EMPLOYER<br>
 
+## Check out the demo!
+
 [![Watch the demo](https://img.youtube.com/vi/BXC7_-_4ek0/0.jpg)](https://youtu.be/BXC7_-_4ek0)
 
 ## Landing Page
