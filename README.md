@@ -15,3 +15,33 @@ Database: Create in table (roles) 1. ROLE_EMPLOYEE 2. ROLE_EMPLOYER<br>
 <img src="https://github.com/Joe-Zhou-Yubin/JobSync/raw/main/ss/Landing_Page.png" alt="Landing Page Screenshot" width="600">
 
 ---
+
+## Login Page
+<img src="https://github.com/Joe-Zhou-Yubin/JobSync/raw/main/ss/Login.png" alt="Login Page Screenshot" width="600">
+
+---
+
+## Signup Page
+<img src="https://github.com/Joe-Zhou-Yubin/JobSync/raw/main/ss/Signup.png" alt="Signup Page Screenshot" width="600">
+
+---
+
+## Dashboard Page
+<img src="https://github.com/Joe-Zhou-Yubin/JobSync/raw/main/ss/Dashboard.png" alt="Dashboard Page Screenshot" width="600">
+
+---
+
+## Job Posting Page
+<img src="https://github.com/Joe-Zhou-Yubin/JobSync/raw/main/ss/Job_Posting.png" alt="Job Posting Page Screenshot" width="600">
+
+---
+
+## Create Posting Page
+<img src="https://github.com/Joe-Zhou-Yubin/JobSync/raw/main/ss/Create_Posting.png" alt="Job Creation Page Screenshot" width="600">
+
+---
+
+## Chatbot Page
+<img src="https://github.com/Joe-Zhou-Yubin/JobSync/raw/main/ss/ChatBot.png" alt="Chatbot Page Screenshot" width="600">
+
+---
